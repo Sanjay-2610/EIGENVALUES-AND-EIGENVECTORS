@@ -15,6 +15,9 @@ Using the np.linalg.eig(),  we get two results (first is eigenvalue and second i
 Printing the eigen values and eigen vectors using print statement
 ## Program:
 ```py
+#Program to find the eigen values and eigen vectors.
+#Developed by: Sanjay Ragavendar M K
+#RegisterNumber:22009286
 import numpy as np
 a=np.array([[4,2],[2,4]])
 value,vector=np.linalg.eig(a)
